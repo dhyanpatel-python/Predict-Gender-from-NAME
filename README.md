@@ -2,6 +2,8 @@
 
 Welcome to the Gender Prediction Website! This web application allows you to predict the genders of individuals based on their names. The predictions are limited to two categories: MALE and FEMALE. In cases where the algorithm cannot accurately calculate the gender or is unsure, it will display NULL along with the probability of being correct.
 
+https://dhyanpatel-python.github.io/Predict-Gender-from-NAME/
+
 ## How it Works
 
 1. Input Name: Enter the first name of the individual whose gender you want to predict in the provided input box.
